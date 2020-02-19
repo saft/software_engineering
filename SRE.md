@@ -19,7 +19,7 @@ In order of increasing proximity to user
 * immediacy - does the strategy give a realtime result
 * richness - how complete a picture of the systems performance by component for the interaction does the strategy provide
 * accuracy - how accurate is the strategy relative to the users experience
-* instrumentation penalty
+* instrumentation penalty - does the application suffer from the instrumenation. Is there a high engineering work-load in creating and maintaingin tools to process the data.
 
 Observability, immediacy and accuracy generally increase as the SLI is taken closer to the user. 
 
